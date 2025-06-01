@@ -1,0 +1,21 @@
+# Environnements virtuels
+venv/
+.env/
+
+# Fichiers temporaires
+*.pyc
+__pycache__/
+*.log
+
+# Fichiers système
+.DS_Store
+
+# Fichiers d'application
+artifacts/
+*.pkl
+*.h5
+
+# Configuration locale
+*.env
+*.idea/
+.vscode/
